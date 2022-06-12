@@ -1,4 +1,4 @@
-# Cryptozombies-Game
+Cryptozombies-Game (Frontend for the game is still in development)
 
 a game on Ethereum, where every player can purchase unique zombies, can battle with other user’s zombies.
 
